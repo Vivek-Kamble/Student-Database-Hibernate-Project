@@ -3,7 +3,7 @@
 ### some images of the project
 
 ### data saved to database using hibernate 
-![project preview](../master/Images/dataSavedToMysql.png =1000x500)
+![project preview](../master/Images/dataSavedToMysql.png)
 ### Database Mysql
 ![project preview](../master/Images/databaseStudent.png)
 ### Fetch Student by id using HQL
